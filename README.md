@@ -1,3 +1,36 @@
+# Customer Gift Management App
+
+> ⚠️ **IMPORTANT: TESTING APPLICATION ONLY**
+>
+> This Flutter application is developed **for testing and requirement for process interview purposes only**.
+> It is **NOT intended for production use** and may lack proper error handling, security measures,
+> and comprehensive testing that would be required for a production-ready application.
+
+## 🚨 Limitations & Disclaimers
+
+### What This App DOES:
+- ✅ Demonstrates Flutter + Laravel API integration
+- ✅ requirement based on process interview coding of PT.Tirtakencana Tatawarna
+
+### What This App DOES NOT:
+- ❌ **Comprehensive error handling** - May crash on unexpected API responses
+- ❌ **Input validation** - Limited form validation
+- ❌ **Security measures** - No encryption, authentication, or authorization
+- ❌ **Performance optimization** - Not optimized for large datasets
+- ❌ **Offline capability** - Requires constant internet connection
+- ❌ **Backend error recovery** - May not handle all backend error scenarios
+- ❌ **Data persistence** - No local database/cache
+- ❌ **Comprehensive testing** - Limited test coverage
+
+### Known Limitations:
+- **API Error Handling**: Basic try-catch blocks only
+- **Network Issues**: No retry mechanisms for failed requests
+- **Data Validation**: Relies on backend validation
+- **State Management**: Basic BLoC implementation without advanced patterns
+- **UI/UX**: Minimal loading states and user feedback
+- **Security**: No token-based authentication
+- **Error Messages**: Generic error messages without detailed user guidance
+
 ### Flutter Environment
 
 Flutter 3.35.7 • channel stable
